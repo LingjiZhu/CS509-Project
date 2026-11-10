@@ -1,5 +1,8 @@
 # Prolog
+Original github repo link:  https://github.com/ssaran24/Prolog
+
 Auction House Url: http://auctionhouse.s3-website-us-east-1.amazonaws.com
+
 ## iteration 3 (final iteration)
 Remaining Use cases:
 1. Buyer - View Item (Lingji: done - 12/06)
